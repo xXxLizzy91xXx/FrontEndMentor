@@ -7,6 +7,10 @@
     src: url(../assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
 
+*{
+    background-color: hsl(30, 54%, 90%);
+}
+
 body {
     font-size: 16px;
 }
